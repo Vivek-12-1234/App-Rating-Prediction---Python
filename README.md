@@ -57,5 +57,5 @@ R2 Score
 
 Random Forest gave the best performance among the tested models.
 
-5. Conclusion
+Conclusion
 The project successfully builds a predictive model using Random Forest that gives reliable estimates of app ratings based on multiple app characteristics. Proper data cleaning and feature transformation helped improve the model's accuracy.
